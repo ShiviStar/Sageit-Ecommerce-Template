@@ -14,7 +14,7 @@ export const Collections = () => {
                         You can explore ans shop many differnt collection
                         from various barands here.
                     </h4>
-                    <div>
+                    <div className='btn-class'>
                         <button className='btn-shopnow'>
                             <img src={ShopNowImg}></img>
                             Shop Now
