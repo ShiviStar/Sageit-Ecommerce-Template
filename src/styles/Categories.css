@@ -1,0 +1,26 @@
+.categories-text-container {
+    display: inline-block;
+}
+
+.categories-main-image-container {
+    display: inline-block;
+    width: 52%;
+}
+.categories-main-image-container img{
+    width: 60%;
+}
+
+.categories-image-container {
+    display: inline-block;
+    width: 42%;
+}
+.categories-image-container img {
+    width: 35%;
+    margin: 5px;
+}
+
+.categories-text-container h3 {
+    writing-mode: sideways-lr;
+    text-transform: uppercase;
+    font-weight: 400;
+}
