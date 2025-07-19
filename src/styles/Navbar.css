@@ -1,7 +1,10 @@
 .nav-container {
-    display: flex;
+    display: inline-block;
     height: 70px;
+    width: 100%;
+    text-align: left;
 }
 .navbar-items {
-    margin-right: 2%;
+    margin-right: 2.7%;
+    display: inline-block;
 }
