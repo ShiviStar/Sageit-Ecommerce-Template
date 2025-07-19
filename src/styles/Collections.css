@@ -1,14 +1,18 @@
 .collection-container {
     display: flex;
-    height: 620px;
+    height: 470px;
 }
 .collection-left-container {
     width: 50%;
     text-align: left;
     position: relative;
-    top: 30%;
+    top: 15%;
 }
 .collection-right-container {
+    width: 50%;
+}
+
+.collection-right-container img {
     width: 50%;
 }
 .collection-container h1 {
